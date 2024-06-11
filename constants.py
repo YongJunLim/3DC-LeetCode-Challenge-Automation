@@ -1,5 +1,4 @@
 import os
-from dotenv import dotenv_values
 
 USER_PROGRESS_DATA = {
     'username': None,
